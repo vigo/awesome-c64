@@ -16,7 +16,13 @@ C64 hackers and Assembly lovers!
 * [http://www.ffd2.com/fridge/](http://www.ffd2.com/fridge/)  
 A code-storage facility, The re-source for Commodore-64 and 6502 programmers.
 
-### Contributing
+
+## PC (Windows) Tools
+
+* [CBM.prg Studio](http://www.ajordison.co.uk/screenshots.html)  
+IDE for developing C64 + Sprite editor and more...
+
+# Contributing
 
 1. Fork it ( https://github.com/vigo/awesome-c64/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
