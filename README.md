@@ -17,6 +17,11 @@ C64 hackers and Assembly lovers!
 A code-storage facility, The re-source for Commodore-64 and 6502 programmers.
 
 
+## Mac OS X Tools
+
+* [MacVICE](http://lallafa.de/blog/c64-projects/macvice/)  
+Best C64 emulator VICE’s OS X (*various compilers*) builds.
+
 ## PC (Windows) Tools
 
 * [CBM.prg Studio](http://www.ajordison.co.uk/screenshots.html)  
