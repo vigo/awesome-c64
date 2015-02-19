@@ -3,10 +3,17 @@
 Commodore 64 related links such as C64 tools for Mac/Linux/PC,
 demoscene related stuff, coding tools, C64 utilities etc...
 
+
 ## Commodore 64 Utilities
 
 * [http://c64warez.com/](http://c64warez.com/)  
 Commodore 64/128 related tools.
+
+
+## Portals
+
+* [DLH's Commodore Archive](http://www.bombjack.org/commodore/)  
+Book, Magazines, Manuals, Disk Images, C16/+4, C128, VIC related...
 
 
 ## Tech Documents and Articles
@@ -15,6 +22,8 @@ Commodore 64/128 related tools.
 C64 hackers and Assembly lovers!
 * [http://www.ffd2.com/fridge/](http://www.ffd2.com/fridge/)  
 A code-storage facility, The re-source for Commodore-64 and 6502 programmers.
+* [All About Your 64 Online Help](http://unusedino.de/ec64/technical/aay/c64/index.htm)  
+By Ninja/The Dreams - (1995 - 2005)
 
 
 ## Mac OS X Tools
@@ -22,10 +31,12 @@ A code-storage facility, The re-source for Commodore-64 and 6502 programmers.
 * [MacVICE](http://lallafa.de/blog/c64-projects/macvice/)  
 Best C64 emulator VICE’s OS X (*various compilers*) builds.
 
+
 ## PC (Windows) Tools
 
 * [CBM.prg Studio](http://www.ajordison.co.uk/screenshots.html)  
 IDE for developing C64 + Sprite editor and more...
+
 
 # Contributing
 
