@@ -30,6 +30,13 @@ Programming languages available for Commodore 8-bit computers.
 Wide range of compilers and OSes for C64
 
 
+## Tutorials
+
+* [Tetris in 6502 Assembler - part 1](http://devdef.blogspot.com.tr/2015/02/tetris-in-6502-assembler-part-1.html)
+* [Tetris in 6502 Assembler - part 2](http://devdef.blogspot.com.tr/2015/02/tetris-in-6502-assembler-part-2.html)
+* [Tetris in 6502 Assembler - part 3](http://devdef.blogspot.com.tr/2015/02/tetris-in-6502-assembler-part-3.html)
+
+
 ## Mac OS X Tools
 
 * [MacVICE](http://lallafa.de/blog/c64-projects/macvice/)  
