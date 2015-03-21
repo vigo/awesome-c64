@@ -49,6 +49,16 @@ Best C64 emulator VICE’s OS X (*various compilers*) builds.
 IDE for developing C64 + Sprite editor and more...
 
 
+## Demoscene
+
+* [CSDB](http://csdb.dk)  
+The C-64 Scene Database
+* [Commodore 64 News](http://c64.sk/)  
+C64 related news portsl
+* [C64 Intros](intros.c64.org)  
+Almost every released intro available since the beginning.
+
+
 # Contributing
 
 1. Fork it ( https://github.com/vigo/awesome-c64/fork )
