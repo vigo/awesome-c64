@@ -38,9 +38,11 @@ Wide range of compilers and OSes for C64
 
 
 ## Mac OS X Tools
+* [Virtual C64](https://dirkwhoffmann.github.io/virtualc64)  
+Mac C64 emulator.
 
 * [MacVICE](http://lallafa.de/blog/c64-projects/macvice/)  
-Best C64 emulator VICE’s OS X (*various compilers*) builds.
+C64 emulator VICE’s OS X (*various compilers*) builds.
 
 ## PC (Windows) Tools
 
