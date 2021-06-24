@@ -3,16 +3,9 @@
 Commodore 64 related links such as C64 tools for Mac/Linux/PC,
 demoscene related stuff, coding tools, C64 utilities etc...
 
-
-## Commodore 64 Utilities
-
-* [http://c64warez.com/](http://c64warez.com/)  
-Commodore 64/128 related tools.
-
-
 ## Portals
 
-* [DLH's Commodore Archive](http://www.bombjack.org/commodore/)  
+* [DLH's Commodore Archive](https://commodore.bombjack.org/)  
 Book, Magazines, Manuals, Disk Images, C16/+4, C128, VIC related...
 
 
