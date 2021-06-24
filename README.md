@@ -17,8 +17,6 @@ C64 hackers and Assembly lovers!
 A code-storage facility, The re-source for Commodore-64 and 6502 programmers.
 * [All About Your 64 Online Help](http://unusedino.de/ec64/technical/aay/c64/index.htm)  
 By Ninja/The Dreams - (1995 - 2005)
-* [Commodore Languages List](http://www.npsnet.com/danf/cbm/languages.html)  
-Programming languages available for Commodore 8-bit computers.
 * [Operating System and Compiler Collection](http://www.lyonlabs.org/commodore/onrequest/collections.html)  
 Wide range of compilers and OSes for C64
 
